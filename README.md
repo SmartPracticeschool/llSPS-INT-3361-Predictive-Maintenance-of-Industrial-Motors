@@ -1,5 +1,5 @@
 # Predictive Maintenance of Industrial Motors
-llSPS-INT-3361-Predictive-Maintenance-of-Industrial-Motors
+## llSPS-INT-3361-Predictive-Maintenance-of-Industrial-Motors
 
 Predictive maintenance consists of detecting the operation conditions of the motor at full load and under the effective temperature and wetness conditions while working. This is in contrast to regular methods where values are collected by starting the stationary machine.
 
@@ -9,4 +9,4 @@ In today’s highly competitive business environment, organizations want to incr
 The aim of the project is to monitor any manufacturing plant remotely for temperature, humidity, vibration, current etc. The program will set the parameters and if the results are not within the parameters, it will send a warning so that immediate action can be taken accordingly.
 
 ## Anuraag Moharana, Pareedu sivamahesh, Chitti suryateja Reddy
-# Smartbridge
+## Smartbridge
